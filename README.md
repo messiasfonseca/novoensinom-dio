@@ -4,11 +4,11 @@
 _Transformando conhecimentos..._
 
 
-Vamos aprender juntos, uso da plataforma [Alura](https://www.alura.com.br/) e aplicação prática no Novo Ensino Médio da _EE Dr. Messias da Fonseca_ Cajuru_SP_
+**Vamos aprender juntos**, uso da plataforma [Alura](https://www.alura.com.br/) e aplicação prática no Novo Ensino Médio da _EE Dr. Messias da Fonseca_ Cajuru_SP_
 
 - Plataforma Alura
 
-- Html
+- Html 
 
 - Css
 
